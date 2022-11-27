@@ -1,0 +1,21 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Background="Black" Width="500" Height="1000" ResizeMode="NoResize" HorizontalAlignment="Center" VerticalAlignment="Center">
+    <Grid>
+        <Button Content="7" Margin="73,144,337,750" Width="90" Height="90" Clip="M89.5,45.48 C89.5,70.056671 69.576671,89.98 45,89.98 C20.423329,89.98 0.5,70.056671 0.5,45.48 C0.5,20.903329 20.423329,0.98 45,0.98 C69.576671,0.98 89.5,20.903329 89.5,45.48 z" Background="#FF483A3A" BorderBrush="#FF313131" FontSize="48" Foreground="#FFF6F6F6" FontFamily="Segoe UI Emoji"/>
+        <Button Content="×" Margin="18,487,392,407" Width="90" Height="90" Clip="M89.5,45.48 C89.5,70.056671 69.576671,89.98 45,89.98 C20.423329,89.98 0.5,70.056671 0.5,45.48 C0.5,20.903329 20.423329,0.98 45,0.98 C69.576671,0.98 89.5,20.903329 89.5,45.48 z" Background="#FFF69906" BorderBrush="#FFF69906" FontSize="48" FontFamily="BankGothic Md BT" FontWeight="Bold"/>
+        <Button Content="AC" Margin="33,264,377,630" Width="90" Height="90" Clip="M89.5,45.48 C89.5,70.056671 69.576671,89.98 45,89.98 C20.423329,89.98 0.5,70.056671 0.5,45.48 C0.5,20.903329 20.423329,0.98 45,0.98 C69.576671,0.98 89.5,20.903329 89.5,45.48 z" Background="#FFA0A0A0" BorderBrush="#FF313131" FontSize="36" FontFamily="Revit_HEB_Key" RenderTransformOrigin="0.444,0.478"/>
+        <Button Content="+/-" Margin="23,587,387,307" Width="90" Height="90" Clip="M89.5,45.48 C89.5,70.056671 69.576671,89.98 45,89.98 C20.423329,89.98 0.5,70.056671 0.5,45.48 C0.5,20.903329 20.423329,0.98 45,0.98 C69.576671,0.98 89.5,20.903329 89.5,45.48 z" Background="#FFF69906" BorderBrush="#FFF69906" FontSize="48" FontWeight="Bold" FontFamily="ISOCTEUR"/>
+        <Button Content="+" Margin="53,697,357,197" Width="90" Height="90" Clip="M89.5,45.48 C89.5,70.056671 69.576671,89.98 45,89.98 C20.423329,89.98 0.5,70.056671 0.5,45.48 C0.5,20.903329 20.423329,0.98 45,0.98 C69.576671,0.98 89.5,20.903329 89.5,45.48 z" Background="#FFF69906" BorderBrush="#FFF69906" FontSize="48" FontFamily="Arial" FontWeight="Bold"/>
+        <Button Content="=" Margin="33,792,377,102" Width="90" Height="90" Clip="M89.5,45.48 C89.5,70.056671 69.576671,89.98 45,89.98 C20.423329,89.98 0.5,70.056671 0.5,45.48 C0.5,20.903329 20.423329,0.98 45,0.98 C69.576671,0.98 89.5,20.903329 89.5,45.48 z" Background="#FFF69906" BorderBrush="#FFF69906" FontSize="48" FontFamily="Arial" FontWeight="Bold"/>
+        <Button Content="÷" Margin="23,379,387,515" Width="90" Height="90" Clip="M89.5,45.48 C89.5,70.056671 69.576671,89.98 45,89.98 C20.423329,89.98 0.5,70.056671 0.5,45.48 C0.5,20.903329 20.423329,0.98 45,0.98 C69.576671,0.98 89.5,20.903329 89.5,45.48 z" Background="#FFF69906" BorderBrush="#FFF69906" FontSize="48" FontFamily="Cascadia Mono" FontWeight="Bold"/>
+        <Button Content="8" Margin="168,144,242,750" Width="90" Height="90" Clip="M89.5,45.48 C89.5,70.056671 69.576671,89.98 45,89.98 C20.423329,89.98 0.5,70.056671 0.5,45.48 C0.5,20.903329 20.423329,0.98 45,0.98 C69.576671,0.98 89.5,20.903329 89.5,45.48 z" Background="#FF313131" BorderBrush="#FF313131" FontSize="48" Foreground="#FFF6F6F6" FontFamily="Segoe UI Emoji"/>
+        <Button Content="9" Margin="298,144,112,750" Width="90" Height="90" Clip="M89.5,45.48 C89.5,70.056671 69.576671,89.98 45,89.98 C20.423329,89.98 0.5,70.056671 0.5,45.48 C0.5,20.903329 20.423329,0.98 45,0.98 C69.576671,0.98 89.5,20.903329 89.5,45.48 z" Background="#FF313131" BorderBrush="#FF313131" FontSize="48" Foreground="#FFF6F6F6" FontFamily="Segoe UI Emoji"/>
+    </Grid>
+</Window>
+    
